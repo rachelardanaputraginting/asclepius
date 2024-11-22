@@ -48,7 +48,9 @@ package.json
 ## How to refactor code
 ```
 # Replace the following sentence according to your google service & 
-[PROJECT ID]    = YOUR PROJECT ID
-[MODEL URL]     = YOUR MODEL URL
-[BACKEND URL]   = YOUR BACKEND URL
+[PROJECT ID]                = YOUR PROJECT ID
+[DIRECTORY PROJECT]         = YOUR PRODUCTION DIRECTORY PROJECT
+[LOCAL DIRECTORY PROJECT]   = YOUR LOCAL DIRECTORY PROJECT
+[MODEL URL]                 = YOUR MODEL URL
+[BACKEND URL]               = YOUR BACKEND URL
 ```
