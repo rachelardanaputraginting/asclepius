@@ -1,4 +1,4 @@
-gcloud builds submit --tag gcr.io/[PROJECT ID]
+gcloud builds submit --tag gcr.io/[PROJECT ID]/[PROJECT DIRECTORY]
 
 gcloud run deploy backend-mlgc \
 --image gcr.io/[PROJECT ID]/[PROJECT DIRECTORY] \
